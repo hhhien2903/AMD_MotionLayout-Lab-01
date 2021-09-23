@@ -43,8 +43,8 @@
         <Constraint
             android:id="@+id/txtTitle"
             motion:layout_constraintEnd_toEndOf="parent"
-            android:layout_width="325dp"
-            android:layout_height="45dp"
+            android:layout_width="335dp"
+            android:layout_height="39dp"
             motion:layout_constraintHorizontal_bias="0.581"
             motion:layout_constraintTop_toTopOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
