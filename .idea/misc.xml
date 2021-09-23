@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14479166666666668" />
         <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/layout/activity_ex1.xml" value="0.264" />
         <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/layout/activity_ex2.xml" value="0.264" />
+        <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/layout/activity_ex3.xml" value="0.2" />
+        <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/layout/taylermusic.xml" value="0.264" />
+        <entry key="..\:/University/4st/Advanced Mobile Development/MotionLayout_Lab01/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14479166666666668" />
       </map>
     </option>
   </component>
